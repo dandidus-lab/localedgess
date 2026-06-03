@@ -1,0 +1,391 @@
+[
+  {
+    "id": "petrobras",
+    "name": "Petróleo Brasileiro (Petrobras)",
+    "ticker": "PBR",
+    "exchange": "NYSE / B3",
+    "country": "br",
+    "countryName": "Brazil",
+    "sector": "Energy",
+    "industry": "Integrated Oil & Gas",
+    "marketCap": "$92B",
+    "priceChange": "+1.8%",
+    "overview": "State-controlled integrated energy major and one of the world's lowest-cost deepwater producers. Its pre-salt assets, dividend policy, and government influence make it a bellwether for Brazilian equities and a key swing barrel for global supply.",
+    "exposures": [
+      { "country": "br", "note": "Core upstream/downstream operations and pre-salt production base." },
+      { "country": "in", "note": "Crude export flows into Indian refiners under spot and term deals." }
+    ],
+    "supplyChain": [
+      "Offshore drilling rigs and FPSO vessels (global shipyard backlog).",
+      "Specialized subsea equipment and turbines from international OEMs.",
+      "Refining catalysts and chemicals feedstock."
+    ],
+    "sentiment": { "score": 38, "label": "Constructive", "drivers": ["Dividend resilience", "Pre-salt cost edge"], "risks": ["Government interference", "Capex reallocation"] },
+    "mentions": { "count": 41, "trend": "+22%", "window": "7d" },
+    "investmentImplications": [
+      "Dividend trajectory is policy-sensitive; signals from the board precede major share moves.",
+      "Pre-salt licensing changes directly affect long-run reserve economics.",
+      "A leading proxy for Brazil sovereign risk and the real."
+    ],
+    "relatedIndustries": ["Energy", "Materials"]
+  },
+  {
+    "id": "vale",
+    "name": "Vale S.A.",
+    "ticker": "VALE",
+    "exchange": "NYSE / B3",
+    "country": "br",
+    "countryName": "Brazil",
+    "sector": "Materials",
+    "industry": "Diversified Metals & Mining",
+    "marketCap": "$58B",
+    "priceChange": "-0.9%",
+    "overview": "The world's largest iron-ore producer and a major nickel and copper miner. Vale sits at the intersection of Chinese steel demand and the energy-transition metals complex, making its volume and pricing commentary globally significant.",
+    "exposures": [
+      { "country": "br", "note": "Iron-ore, nickel and copper operations; logistics rail and ports." },
+      { "country": "id", "note": "Nickel operations exposed to Indonesian downstreaming policy." }
+    ],
+    "supplyChain": [
+      "Heavy mining equipment and autonomous haul trucks.",
+      "Rail and port logistics (Carajás system).",
+      "Bulk-carrier shipping capacity to Asian steel mills."
+    ],
+    "sentiment": { "score": -8, "label": "Mixed", "drivers": ["Transition-metals demand"], "risks": ["China property drag", "Iron-ore price softness"] },
+    "mentions": { "count": 33, "trend": "+9%", "window": "7d" },
+    "investmentImplications": [
+      "Iron-ore pricing is hostage to Chinese steel output and stimulus.",
+      "Nickel exposure links it directly to Indonesian supply policy and EV demand.",
+      "Capital-returns discipline is a key re-rating lever."
+    ],
+    "relatedIndustries": ["Materials", "Mining"]
+  },
+  {
+    "id": "nu-holdings",
+    "name": "Nu Holdings (Nubank)",
+    "ticker": "NU",
+    "exchange": "NYSE",
+    "country": "br",
+    "countryName": "Brazil",
+    "sector": "Financials",
+    "industry": "Digital Banking",
+    "marketCap": "$54B",
+    "priceChange": "+2.6%",
+    "overview": "Latin America's largest digital bank, scaling rapidly across Brazil, Mexico and Colombia. A pure-play on the region's financial-inclusion and digitization theme with industry-leading unit economics.",
+    "exposures": [
+      { "country": "br", "note": "Core deposit, credit-card and lending franchise." },
+      { "country": "mx", "note": "Fast-growing deposit and credit expansion." }
+    ],
+    "supplyChain": [
+      "Cloud infrastructure and payments-rail partners.",
+      "Card-network and processing relationships.",
+      "Credit-bureau and KYC data providers."
+    ],
+    "sentiment": { "score": 61, "label": "Bullish", "drivers": ["Mexico deposit growth", "Improving NIMs"], "risks": ["Credit-cycle normalization"] },
+    "mentions": { "count": 47, "trend": "+34%", "window": "7d" },
+    "investmentImplications": [
+      "Mexico expansion is the key incremental growth vector to monitor.",
+      "Asset-quality trends drive sentiment more than headline user growth.",
+      "Rate-cut cycles support consumer-credit demand."
+    ],
+    "relatedIndustries": ["Financials", "Fintech"]
+  },
+  {
+    "id": "reliance",
+    "name": "Reliance Industries",
+    "ticker": "RELIANCE",
+    "exchange": "NSE / BSE",
+    "country": "in",
+    "countryName": "India",
+    "sector": "Conglomerate",
+    "industry": "Energy / Retail / Telecom",
+    "marketCap": "$230B",
+    "priceChange": "+0.7%",
+    "overview": "India's largest company spanning refining and petrochemicals, the Jio telecom and digital platform, and a vast organized-retail network. Its capital-allocation decisions ripple across multiple sectors of the Indian economy.",
+    "exposures": [
+      { "country": "in", "note": "Refining, telecom (Jio), retail and new-energy build-out." },
+      { "country": "br", "note": "Crude sourcing relationships for refining feedstock." }
+    ],
+    "supplyChain": [
+      "Crude-oil sourcing and refined-product logistics.",
+      "Telecom network equipment and spectrum.",
+      "Solar-module and battery supply for new-energy gigacomplex."
+    ],
+    "sentiment": { "score": 44, "label": "Constructive", "drivers": ["Jio ARPU upside", "Retail scale"], "risks": ["New-energy capex intensity"] },
+    "mentions": { "count": 52, "trend": "+18%", "window": "7d" },
+    "investmentImplications": [
+      "Jio tariff hikes are a near-term earnings catalyst widely tracked locally.",
+      "New-energy gigacomplex is a multi-year optionality story.",
+      "Potential subsidiary listings could unlock conglomerate-discount value."
+    ],
+    "relatedIndustries": ["Energy", "Telecom", "Retail"]
+  },
+  {
+    "id": "tata-motors",
+    "name": "Tata Motors",
+    "ticker": "TATAMOTORS",
+    "exchange": "NSE / BSE",
+    "country": "in",
+    "countryName": "India",
+    "sector": "Consumer Discretionary",
+    "industry": "Automobiles",
+    "marketCap": "$42B",
+    "priceChange": "+1.2%",
+    "overview": "India's leading commercial-vehicle and EV maker and owner of Jaguar Land Rover. A geared play on Indian auto demand, premiumization, and the domestic electric-vehicle transition.",
+    "exposures": [
+      { "country": "in", "note": "Passenger, commercial and EV manufacturing; domestic demand." },
+      { "country": "kr", "note": "Battery-cell and component sourcing for EV programs." }
+    ],
+    "supplyChain": [
+      "EV battery cells and packs (Korean and domestic suppliers).",
+      "Semiconductors for ADAS and infotainment.",
+      "Steel and aluminum inputs."
+    ],
+    "sentiment": { "score": 29, "label": "Constructive", "drivers": ["EV leadership", "JLR margins"], "risks": ["Demand cyclicality"] },
+    "mentions": { "count": 28, "trend": "+12%", "window": "7d" },
+    "investmentImplications": [
+      "Domestic EV market-share defense is critical as competition intensifies.",
+      "JLR free-cash-flow and net-debt reduction drive the equity story.",
+      "Battery-supply contracts affect EV cost competitiveness."
+    ],
+    "relatedIndustries": ["Autos", "Batteries"]
+  },
+  {
+    "id": "infosys",
+    "name": "Infosys",
+    "ticker": "INFY",
+    "exchange": "NSE / NYSE",
+    "country": "in",
+    "countryName": "India",
+    "sector": "Information Technology",
+    "industry": "IT Services & Consulting",
+    "marketCap": "$78B",
+    "priceChange": "-0.4%",
+    "overview": "A global IT-services and digital-transformation leader. Its deal-pipeline and discretionary-spend commentary is a closely watched read-through for enterprise tech budgets worldwide.",
+    "exposures": [
+      { "country": "in", "note": "Delivery base and the bulk of its global talent pool." },
+      { "country": "mx", "note": "Nearshore delivery centers serving North American clients." }
+    ],
+    "supplyChain": [
+      "Skilled engineering talent pipeline.",
+      "Cloud-platform partnerships (hyperscalers).",
+      "Generative-AI tooling and licensing."
+    ],
+    "sentiment": { "score": 12, "label": "Neutral", "drivers": ["AI deal momentum"], "risks": ["Discretionary-spend caution"] },
+    "mentions": { "count": 24, "trend": "+6%", "window": "7d" },
+    "investmentImplications": [
+      "Large-deal TCV is the leading indicator for revenue acceleration.",
+      "Generative-AI offerings are both an opportunity and a pricing risk.",
+      "A bellwether for global enterprise IT-spend sentiment."
+    ],
+    "relatedIndustries": ["IT Services"]
+  },
+  {
+    "id": "grupo-bimbo",
+    "name": "Grupo Bimbo",
+    "ticker": "BIMBOA",
+    "exchange": "BMV",
+    "country": "mx",
+    "countryName": "Mexico",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods",
+    "marketCap": "$25B",
+    "priceChange": "+0.3%",
+    "overview": "The world's largest baking company with deep distribution across the Americas. A defensive consumer-staples name leveraged to input-cost cycles, FX, and North American consumption.",
+    "exposures": [
+      { "country": "mx", "note": "Domestic manufacturing and distribution backbone." },
+      { "country": "br", "note": "Latin American operations and brand portfolio." }
+    ],
+    "supplyChain": [
+      "Wheat, sugar and edible-oils commodity inputs.",
+      "Packaging materials and distribution fleet.",
+      "Cold-chain and logistics network."
+    ],
+    "sentiment": { "score": 18, "label": "Stable", "drivers": ["Pricing power", "Distribution moat"], "risks": ["Wheat-cost volatility"] },
+    "mentions": { "count": 14, "trend": "+4%", "window": "7d" },
+    "investmentImplications": [
+      "Wheat and energy input costs are the primary margin swing factor.",
+      "A peso-FX play given its US dollar revenue mix.",
+      "Defensive characteristics in risk-off regional rotations."
+    ],
+    "relatedIndustries": ["Consumer Staples", "Agribusiness"]
+  },
+  {
+    "id": "grupo-mexico",
+    "name": "Grupo México",
+    "ticker": "GMEXICOB",
+    "exchange": "BMV",
+    "country": "mx",
+    "countryName": "Mexico",
+    "sector": "Materials",
+    "industry": "Copper Mining & Transport",
+    "marketCap": "$48B",
+    "priceChange": "+2.1%",
+    "overview": "One of the world's largest copper producers, with significant transport and infrastructure arms. A primary lever on the global copper supply story central to electrification.",
+    "exposures": [
+      { "country": "mx", "note": "Copper mining, rail transport and infrastructure assets." },
+      { "country": "br", "note": "Regional logistics and metals trade flows." }
+    ],
+    "supplyChain": [
+      "Mining equipment and processing reagents.",
+      "Rail freight and port logistics.",
+      "Power and water for processing operations."
+    ],
+    "sentiment": { "score": 41, "label": "Bullish", "drivers": ["Copper deficit narrative", "Electrification demand"], "risks": ["Permitting and water access"] },
+    "mentions": { "count": 22, "trend": "+19%", "window": "7d" },
+    "investmentImplications": [
+      "A leveraged play on the structural copper-supply deficit.",
+      "Permitting and community/water issues are key project risks.",
+      "Transport arm provides diversified, defensive cash flow."
+    ],
+    "relatedIndustries": ["Materials", "Mining", "Industrials"]
+  },
+  {
+    "id": "bca",
+    "name": "Bank Central Asia (BCA)",
+    "ticker": "BBCA",
+    "exchange": "IDX",
+    "country": "id",
+    "countryName": "Indonesia",
+    "sector": "Financials",
+    "industry": "Banks",
+    "marketCap": "$78B",
+    "priceChange": "+0.6%",
+    "overview": "Indonesia's most valuable bank, prized for a low-cost deposit franchise and digital-transaction leadership. A core proxy for Indonesian consumption and the country's financial-deepening story.",
+    "exposures": [
+      { "country": "id", "note": "Dominant transaction-banking and consumer-lending franchise." }
+    ],
+    "supplyChain": [
+      "Core-banking and payments technology.",
+      "Digital-channel and mobile infrastructure.",
+      "Credit-data and risk-scoring providers."
+    ],
+    "sentiment": { "score": 35, "label": "Constructive", "drivers": ["Low-cost funding", "Digital adoption"], "risks": ["Rupiah volatility", "Rate path"] },
+    "mentions": { "count": 17, "trend": "+8%", "window": "7d" },
+    "investmentImplications": [
+      "Best-in-class funding cost supports through-cycle profitability.",
+      "Loan growth tracks domestic consumption and capex confidence.",
+      "Rupiah stability is central to foreign-investor positioning."
+    ],
+    "relatedIndustries": ["Financials"]
+  },
+  {
+    "id": "vingroup",
+    "name": "Vingroup",
+    "ticker": "VIC",
+    "exchange": "HOSE",
+    "country": "vn",
+    "countryName": "Vietnam",
+    "sector": "Conglomerate",
+    "industry": "Real Estate / Autos / Retail",
+    "marketCap": "$11B",
+    "priceChange": "-1.1%",
+    "overview": "Vietnam's largest private conglomerate spanning real estate (Vinhomes), electric vehicles (VinFast) and retail. A high-beta play on Vietnamese growth, property liquidity, and the country's EV ambitions.",
+    "exposures": [
+      { "country": "vn", "note": "Property, EV manufacturing (VinFast) and retail operations." }
+    ],
+    "supplyChain": [
+      "EV battery cells and powertrain components.",
+      "Construction materials and contractors.",
+      "Automotive semiconductors and electronics."
+    ],
+    "sentiment": { "score": -14, "label": "Cautious", "drivers": ["EV growth optionality"], "risks": ["Property leverage", "VinFast cash burn"] },
+    "mentions": { "count": 19, "trend": "+15%", "window": "7d" },
+    "investmentImplications": [
+      "Property-segment liquidity is the key solvency and sentiment driver.",
+      "VinFast funding needs weigh on group balance-sheet perception.",
+      "Highly geared to Vietnamese policy support and rate direction."
+    ],
+    "relatedIndustries": ["Real Estate", "Autos"]
+  },
+  {
+    "id": "samsung",
+    "name": "Samsung Electronics",
+    "ticker": "005930",
+    "exchange": "KRX",
+    "country": "kr",
+    "countryName": "South Korea",
+    "sector": "Information Technology",
+    "industry": "Semiconductors & Electronics",
+    "marketCap": "$370B",
+    "priceChange": "+1.5%",
+    "overview": "The world's largest memory-chip maker and a leading smartphone and display manufacturer. Its memory-pricing and HBM-qualification commentary is a primary leading indicator for the global AI-hardware cycle.",
+    "exposures": [
+      { "country": "kr", "note": "Core memory, foundry and display manufacturing base." },
+      { "country": "vn", "note": "Large smartphone and electronics assembly operations." },
+      { "country": "in", "note": "Growing manufacturing footprint and domestic demand." }
+    ],
+    "supplyChain": [
+      "Semiconductor equipment (lithography, deposition, etch).",
+      "High-purity chemicals, gases and substrates.",
+      "Assembly and test operations across Asia."
+    ],
+    "sentiment": { "score": 57, "label": "Bullish", "drivers": ["HBM ramp", "Memory upcycle"], "risks": ["Foundry competition", "Yield issues"] },
+    "mentions": { "count": 63, "trend": "+41%", "window": "7d" },
+    "investmentImplications": [
+      "HBM qualification with AI-accelerator customers is the key catalyst.",
+      "Memory-pricing inflection drives the bulk of earnings leverage.",
+      "Foundry-share dynamics versus rivals shape the long-term story."
+    ],
+    "relatedIndustries": ["Semiconductors", "Electronics"]
+  },
+  {
+    "id": "sk-hynix",
+    "name": "SK Hynix",
+    "ticker": "000660",
+    "exchange": "KRX",
+    "country": "kr",
+    "countryName": "South Korea",
+    "sector": "Information Technology",
+    "industry": "Semiconductors (Memory)",
+    "marketCap": "$120B",
+    "priceChange": "+3.4%",
+    "overview": "A leading memory-chip maker and the front-runner in high-bandwidth memory (HBM) for AI accelerators. Arguably the purest listed proxy for AI-driven memory demand worldwide.",
+    "exposures": [
+      { "country": "kr", "note": "Primary DRAM/NAND and HBM manufacturing base." },
+      { "country": "vn", "note": "Back-end packaging and test operations." }
+    ],
+    "supplyChain": [
+      "Advanced packaging and TSV equipment for HBM.",
+      "Wafer-fab tools and high-purity materials.",
+      "Substrate and interposer suppliers."
+    ],
+    "sentiment": { "score": 68, "label": "Bullish", "drivers": ["HBM leadership", "AI demand"], "risks": ["Capacity additions", "Cyclicality"] },
+    "mentions": { "count": 58, "trend": "+52%", "window": "7d" },
+    "investmentImplications": [
+      "HBM allocation and pricing power are the central earnings drivers.",
+      "Capacity-expansion timing affects the next cycle's supply balance.",
+      "A high-beta expression of the AI-infrastructure build-out."
+    ],
+    "relatedIndustries": ["Semiconductors"]
+  },
+  {
+    "id": "koc-holding",
+    "name": "Koç Holding",
+    "ticker": "KCHOL",
+    "exchange": "BIST",
+    "country": "tr",
+    "countryName": "Turkey",
+    "sector": "Conglomerate",
+    "industry": "Energy / Autos / Finance",
+    "marketCap": "$22B",
+    "priceChange": "+1.9%",
+    "overview": "Turkey's largest industrial conglomerate with interests in energy (Tüpraş), automotive, durables and finance. A diversified proxy for Turkish macro normalization and the export-led industrial cycle.",
+    "exposures": [
+      { "country": "tr", "note": "Refining, automotive, white-goods and banking interests." },
+      { "country": "in", "note": "Export and component-sourcing relationships." }
+    ],
+    "supplyChain": [
+      "Refining feedstock and energy logistics.",
+      "Automotive components and steel inputs.",
+      "Consumer-durables electronics and compressors."
+    ],
+    "sentiment": { "score": 23, "label": "Improving", "drivers": ["Orthodox-policy normalization", "Export demand"], "risks": ["Inflation", "Lira volatility"] },
+    "mentions": { "count": 16, "trend": "+27%", "window": "7d" },
+    "investmentImplications": [
+      "A geared expression of Turkey's macro-stabilization trade.",
+      "Refining margins (Tüpraş) drive a large share of group earnings.",
+      "Export-oriented units benefit from a competitive lira."
+    ],
+    "relatedIndustries": ["Energy", "Autos", "Financials"]
+  }
+]

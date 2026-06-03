@@ -1,0 +1,98 @@
+[
+  {
+    "id": "al-1",
+    "type": "High-Impact Signal",
+    "severity": "critical",
+    "title": "SK Hynix clears HBM4 customer qualification ahead of consensus",
+    "description": "Local Korean trade press reports HBM4 qualification with a major AI-accelerator customer, with Q4 volume production. Not yet covered by major international media.",
+    "time": "2026-06-02T06:45:00Z",
+    "country": "kr",
+    "articleId": "kr-hbm4-qual",
+    "companies": ["sk-hynix", "samsung"],
+    "industries": ["Semiconductors"]
+  },
+  {
+    "id": "al-2",
+    "type": "Regulatory Change",
+    "severity": "high",
+    "title": "Indonesia studies expanding raw-mineral export ban",
+    "description": "Potential expansion of downstreaming policy to additional commodities. Material for global nickel and battery-metal supply chains.",
+    "time": "2026-06-01T15:30:00Z",
+    "country": "id",
+    "articleId": "id-nickel-ban",
+    "companies": ["vale"],
+    "industries": ["Materials", "Batteries"]
+  },
+  {
+    "id": "al-3",
+    "type": "Commodity Development",
+    "severity": "high",
+    "title": "Crude oil jumps on OPEC+ extended-cut signal",
+    "description": "Supply-risk premium building. Positive for upstream producers, negative for net-importer refiners and inflation-sensitive EMs.",
+    "time": "2026-05-31T13:20:00Z",
+    "country": "global",
+    "articleId": "global-oil-spike",
+    "companies": ["petrobras", "reliance"],
+    "industries": ["Energy"]
+  },
+  {
+    "id": "al-4",
+    "type": "Supply Chain Disruption",
+    "severity": "medium",
+    "title": "Red Sea reroutes lengthen Asia–Europe transit",
+    "description": "Container rates rising; manufacturer working-capital and margin pressure for Asian exporters.",
+    "time": "2026-05-31T21:35:00Z",
+    "country": "global",
+    "articleId": "global-red-sea",
+    "companies": ["samsung", "tata-motors"],
+    "industries": ["Industrials"]
+  },
+  {
+    "id": "al-5",
+    "type": "High-Impact Signal",
+    "severity": "high",
+    "title": "Samsung pushes double-digit DRAM contract-price increase",
+    "description": "Early, concrete data point on the memory-pricing inflection. Leading indicator for the semiconductor earnings cycle.",
+    "time": "2026-06-01T23:15:00Z",
+    "country": "kr",
+    "articleId": "kr-dram-price-hike",
+    "companies": ["samsung", "sk-hynix"],
+    "industries": ["Semiconductors"]
+  },
+  {
+    "id": "al-6",
+    "type": "Regulatory Change",
+    "severity": "medium",
+    "title": "SEBI tightens India derivatives margin and disclosure",
+    "description": "Could reshape retail derivatives volumes and market-infrastructure revenue. Still local-only coverage.",
+    "time": "2026-05-29T11:00:00Z",
+    "country": "in",
+    "articleId": "in-sebi-derivatives",
+    "companies": ["infosys"],
+    "industries": ["Financials"]
+  },
+  {
+    "id": "al-7",
+    "type": "Commodity Development",
+    "severity": "medium",
+    "title": "Grupo México accelerates copper expansion into structural deficit",
+    "description": "Concrete supply-side data point for the electrification thesis. Leads broader international coverage.",
+    "time": "2026-05-31T17:50:00Z",
+    "country": "mx",
+    "articleId": "mx-copper-expansion",
+    "companies": ["grupo-mexico"],
+    "industries": ["Materials", "Mining"]
+  },
+  {
+    "id": "al-8",
+    "type": "High-Impact Signal",
+    "severity": "medium",
+    "title": "Petrobras board weighs extraordinary dividends",
+    "description": "Capital-returns decision sensitive to government priorities; barometer for Brazilian state-enterprise governance.",
+    "time": "2026-06-01T12:10:00Z",
+    "country": "br",
+    "articleId": "br-petrobras-dividend",
+    "companies": ["petrobras"],
+    "industries": ["Energy"]
+  }
+]

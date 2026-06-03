@@ -1,0 +1,212 @@
+[
+  {
+    "id": "br",
+    "slug": "brazil",
+    "name": "Brazil",
+    "flag": "🇧🇷",
+    "language": "pt",
+    "languageName": "Portuguese",
+    "currency": "BRL",
+    "region": "Latin America",
+    "trendingScore": 94,
+    "policyRate": "10.50%",
+    "inflation": "4.2%",
+    "gdpGrowth": "2.9%",
+    "fxYtd": "-3.1%",
+    "summary": "Brazil's commodity complex and a rapidly digitizing financial sector dominate local headlines. Fiscal policy signals and Petrobras dividend politics move markets weeks before global desks react.",
+    "economicDevelopments": [
+      "Central bank (Copom) holding rates as disinflation stalls; market debating cut timing.",
+      "Record soybean and iron-ore export volumes lifting trade surplus.",
+      "Real-denominated corporate debt issuance reopening after a quiet quarter."
+    ],
+    "regulatoryDevelopments": [
+      "ANP reviewing offshore pre-salt licensing terms — potential margin impact for operators.",
+      "Central bank advancing Drex (digital real) pilot with major banks and fintechs."
+    ],
+    "infrastructure": [
+      "BR-163 logistics corridor expansion to cut grain freight costs from Mato Grosso.",
+      "Porto do Açu green-hydrogen and ammonia export terminal reaching FID stage."
+    ],
+    "sectorTrends": ["Energy", "Materials", "Financials", "Agribusiness"]
+  },
+  {
+    "id": "in",
+    "slug": "india",
+    "name": "India",
+    "flag": "🇮🇳",
+    "language": "hi",
+    "languageName": "Hindi",
+    "currency": "INR",
+    "region": "South Asia",
+    "trendingScore": 97,
+    "policyRate": "6.50%",
+    "inflation": "5.1%",
+    "gdpGrowth": "7.0%",
+    "fxYtd": "-1.4%",
+    "summary": "The fastest-growing major economy. Capex announcements, PLI scheme expansions, and IT-services demand commentary frequently surface in regional-language and trade press first.",
+    "economicDevelopments": [
+      "Government front-loading infrastructure capex ahead of state elections.",
+      "Services PMI at multi-year highs; manufacturing PLI incentives broadening.",
+      "Strong domestic SIP inflows underpinning equity-market liquidity."
+    ],
+    "regulatoryDevelopments": [
+      "SEBI tightening derivatives margin and disclosure norms for retail flow.",
+      "New semiconductor and display-fab incentive tranche under cabinet review."
+    ],
+    "infrastructure": [
+      "Dedicated Freight Corridor commissioning new sections, cutting logistics time.",
+      "Green-energy corridor transmission build-out to evacuate Gujarat/Rajasthan solar."
+    ],
+    "sectorTrends": ["IT Services", "Autos", "Financials", "Industrials"]
+  },
+  {
+    "id": "mx",
+    "slug": "mexico",
+    "name": "Mexico",
+    "flag": "🇲🇽",
+    "language": "es",
+    "languageName": "Spanish",
+    "currency": "MXN",
+    "region": "Latin America",
+    "trendingScore": 88,
+    "policyRate": "11.00%",
+    "inflation": "4.6%",
+    "gdpGrowth": "2.2%",
+    "fxYtd": "+1.9%",
+    "summary": "Nearshoring is the defining theme — industrial-park leasing, border logistics, and USMCA content rules drive corporate winners. Local business dailies break expansion news early.",
+    "economicDevelopments": [
+      "Nearshoring driving record FDI into Bajío and northern industrial corridors.",
+      "Banxico signaling a measured easing path as the peso stays resilient.",
+      "Industrial real-estate vacancy near record lows in border markets."
+    ],
+    "regulatoryDevelopments": [
+      "Energy-sector permitting reforms creating uncertainty for private generators.",
+      "USMCA auto rules-of-origin enforcement reshaping supplier sourcing."
+    ],
+    "infrastructure": [
+      "Interoceanic Corridor (Tehuantepec) rail and port upgrades progressing.",
+      "Cross-border power interconnection studies to serve new manufacturing load."
+    ],
+    "sectorTrends": ["Industrials", "Consumer Staples", "Telecom", "Materials"]
+  },
+  {
+    "id": "id",
+    "slug": "indonesia",
+    "name": "Indonesia",
+    "flag": "🇮🇩",
+    "language": "id",
+    "languageName": "Indonesian",
+    "currency": "IDR",
+    "region": "Southeast Asia",
+    "trendingScore": 85,
+    "policyRate": "6.25%",
+    "inflation": "2.8%",
+    "gdpGrowth": "5.1%",
+    "fxYtd": "-2.6%",
+    "summary": "The nickel and EV-battery supply chain story sits at the center of Indonesian markets, alongside a fast-growing digital-banking sector. Downstreaming policy shifts originate locally.",
+    "economicDevelopments": [
+      "Resource downstreaming policy boosting domestic nickel processing value-add.",
+      "Digital banks scaling deposits rapidly among younger urban customers.",
+      "New-capital (Nusantara) spending supporting construction-materials demand."
+    ],
+    "regulatoryDevelopments": [
+      "Export-ban expansion to additional raw minerals under discussion.",
+      "Bank Indonesia macroprudential tweaks to manage rupiah stability."
+    ],
+    "infrastructure": [
+      "Nusantara (IKN) new-capital build-out entering major construction phase.",
+      "Battery-grade nickel HPAL projects ramping in Sulawesi."
+    ],
+    "sectorTrends": ["Materials", "Financials", "Energy", "Consumer"]
+  },
+  {
+    "id": "vn",
+    "slug": "vietnam",
+    "name": "Vietnam",
+    "flag": "🇻🇳",
+    "language": "vi",
+    "languageName": "Vietnamese",
+    "currency": "VND",
+    "region": "Southeast Asia",
+    "trendingScore": 82,
+    "policyRate": "4.50%",
+    "inflation": "3.6%",
+    "gdpGrowth": "6.3%",
+    "fxYtd": "-3.4%",
+    "summary": "A core 'China+1' manufacturing beneficiary. Electronics FDI, real-estate liquidity, and an awaited emerging-market index reclassification are the stories that move local indices.",
+    "economicDevelopments": [
+      "Electronics and apparel export orders recovering on inventory restocking.",
+      "Property-sector liquidity measures aimed at stabilizing developers.",
+      "Potential MSCI/FTSE emerging-market reclassification in focus."
+    ],
+    "regulatoryDevelopments": [
+      "Securities-market upgrades to meet index-reclassification settlement rules.",
+      "Power Development Plan VIII reshaping renewable and LNG investment."
+    ],
+    "infrastructure": [
+      "Long Thanh International Airport construction advancing near Ho Chi Minh City.",
+      "North-South expressway and industrial-zone power upgrades underway."
+    ],
+    "sectorTrends": ["Industrials", "Real Estate", "Financials", "Consumer"]
+  },
+  {
+    "id": "kr",
+    "slug": "south-korea",
+    "name": "South Korea",
+    "flag": "🇰🇷",
+    "language": "ko",
+    "languageName": "Korean",
+    "currency": "KRW",
+    "region": "East Asia",
+    "trendingScore": 96,
+    "policyRate": "3.50%",
+    "inflation": "2.9%",
+    "gdpGrowth": "2.4%",
+    "fxYtd": "-4.0%",
+    "summary": "The global memory and HBM (high-bandwidth memory) cycle is set here. Korean tech and battery makers' supplier commentary is a leading indicator for the AI hardware complex worldwide.",
+    "economicDevelopments": [
+      "Memory pricing inflecting upward on AI-driven HBM demand.",
+      "Exports rebounding led by semiconductors and autos.",
+      "'Value-up' corporate-governance program targeting equity re-rating."
+    ],
+    "regulatoryDevelopments": [
+      "Corporate 'value-up' disclosure guidelines to address the 'Korea discount'.",
+      "Chip-fab tax-credit extension supporting capex commitments."
+    ],
+    "infrastructure": [
+      "Yongin mega semiconductor cluster site preparation and power planning.",
+      "Battery gigafactory supply agreements with global automakers expanding."
+    ],
+    "sectorTrends": ["Semiconductors", "Autos", "Batteries", "Financials"]
+  },
+  {
+    "id": "tr",
+    "slug": "turkey",
+    "name": "Turkey",
+    "flag": "🇹🇷",
+    "language": "tr",
+    "languageName": "Turkish",
+    "currency": "TRY",
+    "region": "EMEA",
+    "trendingScore": 79,
+    "policyRate": "50.00%",
+    "inflation": "61%",
+    "gdpGrowth": "3.1%",
+    "fxYtd": "-9.2%",
+    "summary": "A high-stakes orthodox-policy normalization story. Rate decisions, reserve rebuilding, and a defense/industrial exports boom dominate — local financial press leads global coverage.",
+    "economicDevelopments": [
+      "Orthodox monetary tightening aimed at taming inflation and rebuilding reserves.",
+      "Defense and machinery exports expanding to new markets.",
+      "Foreign portfolio inflows returning as real rates turn positive."
+    ],
+    "regulatoryDevelopments": [
+      "Simplification of macroprudential rules to normalize the banking system.",
+      "Capital-markets incentives to deepen local institutional participation."
+    ],
+    "infrastructure": [
+      "Gas-discovery development in the Black Sea (Sakarya field) ramping output.",
+      "Renewable-capacity auctions to reduce energy-import dependence."
+    ],
+    "sectorTrends": ["Financials", "Industrials", "Defense", "Energy"]
+  }
+]
